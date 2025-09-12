@@ -1,0 +1,108 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"fill\".",
+                        "functionName": "fill",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: button",
+                        "functionName": "onPressed",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 398,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 3453,
+                        "errorMessage": "",
+                        "functionName": "onDropped",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "",
+                        "functionName": "onDropped",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 87
+                    }
+                ],
+                "filePath": "D:/Qt/qt_projects/qt_tests/component_loader/Main.qml"
+            }
+        ],
+        "moduleId": "component_loader(appcomponent_loader)"
+    }
+]

@@ -1,0 +1,5 @@
+module component_loader
+typeinfo appcomponent_loader.qmltypes
+prefer :/qt/qml/component_loader/
+Main 1.0 Main.qml
+

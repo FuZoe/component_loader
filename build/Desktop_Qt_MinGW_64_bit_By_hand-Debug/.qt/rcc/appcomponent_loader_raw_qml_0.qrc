@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/component_loader/">
+    <file alias="Main.qml">D:/Qt/qt_projects/qt_tests/component_loader/Main.qml</file>
+  </qresource>
+</RCC>
+

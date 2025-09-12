@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appcomponent_loader_FILE D:/Qt/qt_projects/qt_tests/component_loader/build/Desktop_Qt_MinGW_64_bit_By_hand-Debug/appcomponent_loader.exe)
+set(__QT_DEPLOY_TARGET_appcomponent_loader_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appcomponent_loader_RUNTIME_DLLS C:/Qt/Commu6.9/6.9.1/mingw_64/bin/Qt6Quick.dll;C:/Qt/Commu6.9/6.9.1/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/Commu6.9/6.9.1/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/Commu6.9/6.9.1/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/Commu6.9/6.9.1/mingw_64/bin/Qt6Qml.dll;C:/Qt/Commu6.9/6.9.1/mingw_64/bin/Qt6Network.dll;C:/Qt/Commu6.9/6.9.1/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/Commu6.9/6.9.1/mingw_64/bin/Qt6Gui.dll;C:/Qt/Commu6.9/6.9.1/mingw_64/bin/Qt6Core.dll)

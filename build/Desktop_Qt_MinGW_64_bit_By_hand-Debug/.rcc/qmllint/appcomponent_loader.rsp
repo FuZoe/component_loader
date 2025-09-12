@@ -1,0 +1,10 @@
+--bare
+-I
+D:/Qt/qt_projects/qt_tests/component_loader/build/Desktop_Qt_MinGW_64_bit_By_hand-Debug
+-I
+C:/Qt/Commu6.9/6.9.1/mingw_64/qml
+--resource
+D:/Qt/qt_projects/qt_tests/component_loader/build/Desktop_Qt_MinGW_64_bit_By_hand-Debug/.qt/rcc/qmake_component_loader.qrc
+--resource
+D:/Qt/qt_projects/qt_tests/component_loader/build/Desktop_Qt_MinGW_64_bit_By_hand-Debug/.qt/rcc/appcomponent_loader_raw_qml_0.qrc
+D:/Qt/qt_projects/qt_tests/component_loader/Main.qml
